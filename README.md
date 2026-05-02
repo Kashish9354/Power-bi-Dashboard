@@ -1,9 +1,27 @@
-Built my first Power BI E-Commerce Sales Dashboard.
-Key Insights from the project: ~ Revenue analysis across products, categories and states
-~ Cancellation rate and lost revenue tracking 
-~ Quarterly sales trend analysis
-~ Interactive category filters for business exploration
+# E-Commerce Sales Dashboard (Power BI)
 
-Tools used : Power BI, Power Query, DAX
+## Project Overview
+This Power BI dashboard analyes e-commerce sales performance across products, categories, states, and time periods.
+It helps track revenue, cancellations, and quarterly sales trends through interactive visualizations.
 
-# PowerBI #DataAnalytics #DataScience #BusinessIntelligence #Dashboard #BeginnerProject
+## Key Metrics
+- Revenue : 1.25 bn
+- AOB : 112.85K
+- Cancellation Rate : 29.72%
+- Lost Revenue (Cancellation) : 525.42M
+- Total Orders : 15.69K
+
+## Key Insights
+-Laptop category generated the hightes revenue.
+- MacBook Air, OnePlus 9,and Sony Headphones were among the top-performing products.
+- Maharashtra and Gujarat contributed the hightest sales.
+- Revenue remained stables during early quarters and declined in the final quarter.
+
+## Files Included
+'Ecommerce_Dashboard.pbit'
+'Dashboard-preview.png'
+'README.md
+
+## Author
+Kashish Mishra
+
